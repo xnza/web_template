@@ -5,3 +5,13 @@
  *
  * Copyright 2015
  */
+
+@charset "utf-8";
+
+body {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	margin: 0px;
+	background: url("../img/background.jpg") no-repeat scroll center top;
+	background-color: #cccccc;
+}
