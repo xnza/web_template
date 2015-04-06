@@ -12,12 +12,20 @@ body {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", Tahoma, Geneva, sans-serif;
 	font-size: 12px;
 	margin: 0px;
-	background: url("../img/background.jpg") no-repeat scroll center top;
-	background-color: #cccccc;
+	background: url(../img/background.jpg) no-repeat scroll center top;
+	background-color: silver;
 }
 
 #wrapper {
 	width: 964px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+header {
+	width: 964px;
+	height: 150px;
+	background: url(../img/header.jpg);
+	margin-top: 20px;
+	background-color: red;
 }
