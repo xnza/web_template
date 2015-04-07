@@ -167,3 +167,20 @@ header .logo {
 #nav li li:hover ul {
 	visibility: visible;
 }
+
+/*
+ * Content website
+ */
+
+
+.content {
+	width: 964px;
+	height: auto;
+}
+
+.slider {
+	height: 300px;
+	width: 600px;
+	background-color: #FFC;
+	float: left;
+}
