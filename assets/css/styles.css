@@ -18,15 +18,16 @@ body {
 
 #wrapper {
 	width: 964px;
+	min-height: 500px;
 	margin-left: auto;
 	margin-right: auto;
+	background-color:white; 
 }
 
 header {
 	width: 964px;
 	height: 150px;
 	background: url(../img/header.jpg);
-	margin-top: 20px;
 	background-color: red;
 }
 
@@ -184,3 +185,15 @@ header .logo {
 	background-color: #FFC;
 	float: left;
 }
+
+/*
+ * Footer Website
+ */
+
+ footer {
+	width: 964px;
+	height: 50px;
+	background: url(../img/footer.jpg);
+	float: left;
+	background-color: green;
+ }
