@@ -17,19 +17,17 @@ body {
 }
 
 #wrapper {
-	width: 964px;
-	min-height: 500px;
+	width: 960px;
 	margin-left: auto;
 	margin-right: auto;
 	background-color:white; 
 }
 
 header {
-	width: 964px;
+	width: 960px;
 	height: 150px;
 	background: url(../img/header.jpg);
 	background-color: red;
-	margin-top: 10px;
 }
 
 header .logo {
@@ -51,7 +49,7 @@ header .logo {
 	border: 1px solid #121314;
 	border-top: 1px solid #2b2e30;
 	overflow: hidden;
-	width: 962px;
+	width: 958px;
 	background: #3C4042;
 	background: -webkit-gradient( linear, left bottom, left top, color-stop(0.09, rgb(59,63,65)), color-stop(0.55, rgb(72,76,77)), color-stop(0.78, rgb(75,77,77)) );
 	background: -moz-linear-gradient( center bottom, rgb(59,63,65) 9%, rgb(72,76,77) 55%, rgb(75,77,77) 78% );
@@ -192,7 +190,7 @@ header .logo {
  */
 
  footer {
-	width: 962px;
+	width: 958px;
 	height: 50px;
 	float: left;
 	font: bold 13px Arial, Helvetica, Sans-serif;
