@@ -207,3 +207,13 @@ header .logo {
 	text-decoration: none;
  }
 
+footer .copyright {
+	text-align: center;
+	margin-top: 15px;
+}
+
+footer .copyright .socmed {
+	margin-top: -18px;
+	margin-right: 10px;
+	text-align: right;
+}
